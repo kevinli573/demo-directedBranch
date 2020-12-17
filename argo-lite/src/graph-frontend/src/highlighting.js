@@ -88,10 +88,13 @@ module.exports = function(self) {
       node.renderData.linecolor.r = red;
       node.renderData.linecolor.g = blue;
       node.renderData.linecolor.b = green;
+      // console.log(self.arrow.mater);
+      self.arrow.material.color.setRGB(red, blue, green);
     } else {
       node.renderData.linecolor.r =  self.darkMode ? 0.25 : .75;
       node.renderData.linecolor.g = self.darkMode ? 0.25 : .75;
       node.renderData.linecolor.b = self.darkMode ? 0.25 : .75;
+      // self.arrow.material.color.setRGB(self.darkMode ? 0.25 : .75, self.darkMode ? 0.25 : .75, self.darkMode ? 0.25 : .75);
     }
     
   };

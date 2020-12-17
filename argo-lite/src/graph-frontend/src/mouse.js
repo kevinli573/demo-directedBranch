@@ -6,6 +6,7 @@ var OrbitControls = def.OrbitControls;
 var d3 = def.d3;
 var ee = def.ee;
 var $ = require("jquery");
+const { default: appState } = require("../../stores");
 
 module.exports = function (self) {
   /**
@@ -88,6 +89,7 @@ module.exports = function (self) {
       //set currently hovered node
       appState.graph.currentlyHovered = node;
     } else if (self.selection.length == 0) {
+      appState.graph.currentlyHovered = undefined;
       self.graph.forEachNode(n => {
         self.colorNodeOpacity(n, 1);
         self.colorNodeEdge(n, 0.5, 0.5);
