@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/argo-graph-lite/static/css/main.03823785.chunk.css",
-    "main.js": "/argo-graph-lite/static/js/main.2caea99b.chunk.js",
-    "main.js.map": "/argo-graph-lite/static/js/main.2caea99b.chunk.js.map",
-    "runtime~main.js": "/argo-graph-lite/static/js/runtime~main.7ffe45a9.js",
-    "runtime~main.js.map": "/argo-graph-lite/static/js/runtime~main.7ffe45a9.js.map",
-    "static/css/2.778abcfc.chunk.css": "/argo-graph-lite/static/css/2.778abcfc.chunk.css",
-    "static/js/2.e4a8a408.chunk.js": "/argo-graph-lite/static/js/2.e4a8a408.chunk.js",
-    "static/js/2.e4a8a408.chunk.js.map": "/argo-graph-lite/static/js/2.e4a8a408.chunk.js.map",
-    "index.html": "/argo-graph-lite/index.html",
-    "precache-manifest.e56009acc319548aec5b117413ebeb98.js": "/argo-graph-lite/precache-manifest.e56009acc319548aec5b117413ebeb98.js",
-    "service-worker.js": "/argo-graph-lite/service-worker.js",
-    "static/css/2.778abcfc.chunk.css.map": "/argo-graph-lite/static/css/2.778abcfc.chunk.css.map",
-    "static/css/main.03823785.chunk.css.map": "/argo-graph-lite/static/css/main.03823785.chunk.css.map",
-    "static/media/argologo.png": "/argo-graph-lite/static/media/argologo.560a589f.png",
-    "static/media/blueprint.css": "/argo-graph-lite/static/media/icons-20.c6e7874e.eot"
+    "main.css": "/demo-directedBranch/static/css/main.03823785.chunk.css",
+    "main.js": "/demo-directedBranch/static/js/main.e251c71a.chunk.js",
+    "main.js.map": "/demo-directedBranch/static/js/main.e251c71a.chunk.js.map",
+    "runtime~main.js": "/demo-directedBranch/static/js/runtime~main.2be93630.js",
+    "runtime~main.js.map": "/demo-directedBranch/static/js/runtime~main.2be93630.js.map",
+    "static/css/2.282599f7.chunk.css": "/demo-directedBranch/static/css/2.282599f7.chunk.css",
+    "static/js/2.2f7b1ac5.chunk.js": "/demo-directedBranch/static/js/2.2f7b1ac5.chunk.js",
+    "static/js/2.2f7b1ac5.chunk.js.map": "/demo-directedBranch/static/js/2.2f7b1ac5.chunk.js.map",
+    "index.html": "/demo-directedBranch/index.html",
+    "precache-manifest.3e07955ca08d532665f5180bdc65e488.js": "/demo-directedBranch/precache-manifest.3e07955ca08d532665f5180bdc65e488.js",
+    "service-worker.js": "/demo-directedBranch/service-worker.js",
+    "static/css/2.282599f7.chunk.css.map": "/demo-directedBranch/static/css/2.282599f7.chunk.css.map",
+    "static/css/main.03823785.chunk.css.map": "/demo-directedBranch/static/css/main.03823785.chunk.css.map",
+    "static/media/argologo.png": "/demo-directedBranch/static/media/argologo.560a589f.png",
+    "static/media/blueprint.css": "/demo-directedBranch/static/media/icons-20.c6e7874e.eot"
   }
 }
