@@ -2,7 +2,7 @@
   "name": "argo-lite",
   "version": "1.0.2",
   "private": true,
-  "homepage": "https://kevinli573.github.io/demo-directedBranch/",
+  "homepage": "https://kevinli573.github.io/demo-directedBranch",
   "dependencies": {
     "@babel/core": "7.5.5",
     "@blueprintjs/core": "^1.40.0",
