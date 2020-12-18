@@ -65,7 +65,7 @@ class EdgesPanel extends React.Component {
 
                 <div>
                     <section>
-                        <p style={{display: "inline"}}>Directed Graph? test: </p>
+                        <p style={{display: "inline"}}>Directed Graph? test2: </p>
                         <div style={{display: "inline", float: "right"}}>
                               <input 
                                 type="checkbox"

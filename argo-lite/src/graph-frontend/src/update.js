@@ -22,6 +22,7 @@ module.exports = function(self) {
     //   new Float32Array(self.MAX_LINES * 3),
     //   3
     // );
+    self.directedArrows.attributes.position.array = new Float32Array(self.MAX_LINES * 3);
     var arrowPosition = self.directedArrows.attributes.position.array;
     var arrowColor = self.directedArrows.attributes.color.array;
     

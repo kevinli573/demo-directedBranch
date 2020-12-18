@@ -306,11 +306,6 @@ export default class GraphStore {
     this.rawGraph = savedStates.rawGraph;
     if (savedStates.positions) {
       this.positions = savedStates.positions;
-      self.directedArrows.attributes.position.dispose();
-      self.directedArrows.attributes.position = new THREE.BufferAttribute(
-        new Float32Array(self.MAX_LINES * 3),
-        3
-      );
     }
     if (savedStates.nodesShowingLabels) {
       this.initialNodesShowingLabels = savedStates.nodesShowingLabels;
